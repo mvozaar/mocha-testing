@@ -6,7 +6,9 @@
   "directories": {
     "test": "test"
   },
-  "dependencies": {},
+  "dependencies": {
+    "mocha-bamboo-reporter": "^1.1.2"
+  },
   "devDependencies": {
     "mocha": "^6.2.0"
   },
